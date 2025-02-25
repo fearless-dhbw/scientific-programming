@@ -28,7 +28,7 @@ __Aim:__ The aim of the project is to use the Python Programming Concepts and Ma
 
 ## Must-have Requirements for the code to run
 
-PyWavelets
-opencv-python
-seaborn
+- PyWavelets
+- opencv-python
+- seaborn
 
