@@ -4,11 +4,19 @@ __Aim:__ The aim of the project is to use the Python Programming Concepts and Ma
 
 ## For my data science and machine learning project, I decided to image classify some popular Sport Celebrities:
 
-1. Lionel Messi
-2. Virat Kohli
-3. Maria Sharapova
-4. Venus Williams
-5. Roger Federer
+-  Lionel Messi
+- Virat Kohli
+- Maria Sharapova
+- Venus Williams
+- Roger Federer
+
+
+## Highlights:
+
+- Took raw truth data and worked from preprocessing, processing and training data model
+- Used wavelet transform and raw pixel data to detect images. Used SVM to create a confusion matrix with relatively high accuracy.
+- Used confusion matrix to plot data
+- Created Frontend and Backend data
 
 ## The folder structure:
 
