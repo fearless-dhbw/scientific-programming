@@ -8,7 +8,7 @@
 4. Venus Williams
 5. Roger Federer
 
-The folder structure,
+## The folder structure:
 
 __Frontend__ : This contains ui website code (unfortunately still buggy)
 __server__: Python flask server
