@@ -16,14 +16,15 @@ __model__: Contains python notebook for model building including python model
 __images_dataset__: Dataset used for our model training
 
 ## Technologies used in this project:
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
+- Python
+- Numpy and OpenCV for data cleaning
+- Matplotlib & Seaborn for data visualization
+- Sklearn for model building
+- Jupyter notebook, visual studio code and pycharm as IDE
+- Python flask for http server (buggy)
+- Vite, React, HTML, TailwindCSS and Nextjs for Frontend
 
-## Requirements
+## Must-have Requirements
 
 PyWavelets
 opencv-python
