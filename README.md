@@ -1,5 +1,7 @@
 # Scientific Programming Project - Athlete Image Classification Project
 
+__Aim:__ The aim of the project is to use the Python Programming Concepts and Machine Learning Algorithms learnt in class on a project to challenge ourselves and grow in the process.
+
 ## For my data science and machine learning project, I decided to image classify some popular Sport Celebrities:
 
 1. Lionel Messi
@@ -10,10 +12,10 @@
 
 ## The folder structure:
 
-__Frontend__ : This contains ui website code (unfortunately still buggy)
-__server__: Python flask server
-__model__: Contains python notebook for model building including python model
-__images_dataset__: Dataset used for our model training
+- __Frontend__ : This contains ui website code (unfortunately still buggy)
+- __server__: Python flask server
+- __model__: Contains python notebook for model building including python model
+- __images_dataset__: Dataset used for our model training
 
 ## Technologies used in this project:
 - Python
@@ -24,7 +26,7 @@ __images_dataset__: Dataset used for our model training
 - Python flask for http server (buggy)
 - Vite, React, HTML, TailwindCSS and Nextjs for Frontend
 
-## Must-have Requirements
+## Must-have Requirements for the code to run
 
 PyWavelets
 opencv-python
